@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rep</string>
+    <string name="error_msg">Unable to get recipe information.</string>
+</resources>
